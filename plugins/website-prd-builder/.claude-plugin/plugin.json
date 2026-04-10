@@ -1,0 +1,10 @@
+{
+  "name": "website-prd-builder",
+  "version": "1.0.0",
+  "description": "워크숍용 웹사이트/웹서비스 PRD 빌더. /website-prd 커맨드로 PRD 프레임 + 폴더 구조 + GitHub 푸시까지 자동화",
+  "author": {
+    "name": "Selfish Club Workshop",
+    "email": "cs.selfishclub@gmail.com"
+  },
+  "homepage": "https://github.com/selfish-workshop/workshop-toolkit"
+}
